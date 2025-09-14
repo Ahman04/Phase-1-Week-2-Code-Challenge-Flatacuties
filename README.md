@@ -15,7 +15,7 @@ You use git clone to be able to download the project from GitHub.
 - JSON Server  
 
 ## Installation instruction  
-```bash
+ 
 git clone git@github.com:Ahman04/Phase-1-Week-2-Code-Challenge-Flatacuties.git
 cd Phase-1-Week-2-Code-Challenge-Flatacuties
 npm install -g json-server
@@ -33,7 +33,7 @@ JSON Server
 GitHub
 
 Support and contact details
-github.com/<your-username>
+github.com/<Ahman04>
 
 License
 MIT License
