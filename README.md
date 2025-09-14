@@ -17,9 +17,13 @@ You use git clone to be able to download the project from GitHub.
 ## Installation instruction  
  
 git clone git@github.com:Ahman04/Phase-1-Week-2-Code-Challenge-Flatacuties.git
+
 cd Phase-1-Week-2-Code-Challenge-Flatacuties
+
 npm install -g json-server
+
 json-server --watch db.json
+
 Technologies used
 
 HTML
@@ -34,6 +38,7 @@ GitHub
 
 Support and contact details
 github.com/<Ahman04>
+git clone https://github.com/Ahman04/Phase-1-Week-2-Code-Challenge-Flatacuties.git
 
 License
 MIT License
