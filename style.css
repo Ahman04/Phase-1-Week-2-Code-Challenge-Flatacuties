@@ -1,0 +1,57 @@
+body {
+  font-family: Arial, sans-serif; 
+  background: #f8f9fa;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: #ff6b6b; 
+}
+
+#container {
+  display: flex;
+  justify-content: space-between; /* Space between the two sections */
+  margin-top: 20px; /* Add some top margin */
+}
+
+#animal-list, #animal-details { /* Style both sections similarly */
+  background: #fff;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1); /* Subtle shadow */
+  width: 45%; /* Each takes up 45% of the container */
+}
+
+#characters li {
+  list-style: none;
+  padding: 8px;
+  margin: 5px 0;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+#characters li:hover {
+  background: #ffe6e6;
+}
+
+#animal-image {
+  max-width: 200px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+#vote-btn {
+  margin-top: 10px;
+  padding: 8px 16px;
+  background: #ff6b6b;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer; /*  */
+}
+
+#vote-btn:hover {
+  background: #ff4040; /* Darker shade on hover */
+}
